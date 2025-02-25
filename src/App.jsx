@@ -20,7 +20,7 @@ const App = () => {
   }
   return (
     <div>
-      <center className=''>
+      <center>
         <div className="card w-50 mt-5">
           <div className="card-body">
             <h4 className="card-title">Weather App</h4>
